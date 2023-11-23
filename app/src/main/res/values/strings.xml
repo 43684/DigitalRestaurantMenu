@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Digital Restaurant Menu</string>
+    <string name="name">Gentis</string>
+    <string name="label">Foodhub!</string>
+    <string name="pizza">Pizza</string>
+    <string name="drinks">Drinks</string>
+    <string name="desserts">Desserts</string>
+
+    <string name="pizza1">pizza quattro\nformaggi</string>
+    <string name="pizza2">pizza Ortolana\nVegetariana</string>
+    <string name="pizza3">pizza Capricciosa</string>
+
+    <string name="pizza1info">A four seasons pizza is a mixture of strong flavours together with mozzarella and tomato. On this pizza you can find cooked ham, mushrooms, artichokes and black olives. In some cases, you can even find small additions like anchovies or other local ingredients.</string>
+    <string name="pizza2info">The ingredients are the pretty much same, except the Capricciosa doesn’t usually have olives and all the ingredients are mixed together on the base of tomato sauce and mozzarella, rather than separated, forming a delicious union of flavours.</string>
+    <string name="pizza3info">This vegetable pizza is perfect for those who want to eat something delicious once in a while, but at the same time keep an eye on their waistline. In addition to mozzarella and tomato, the ingredients of this pizza are peppers, aubergines and courgette/zucchini cut into strips or thin slices, or any other mixture of roasted fresh vegetables.</string>
+
+    <string name="dessert1">Homemade\nStrawberry Cake</string>
+    <string name="dessert2">Homemade\nIce Cream</string>
+    <string name="dessert3">Homemade\nSwedish Semla</string>
+
+    <string name="dessert1info">Strawberry cake is a delightful dessert with layers of moist cake, fresh strawberries, and whipped cream, offering a sweet and fruity indulgence.</string>
+    <string name="dessert2info">Ice cream is a frozen dessert with endless flavors, created from creamy milk, sugar, and various toppings, providing a cool and customizable treat.</string>
+    <string name="dessert3info">Swedish Semla, or semlor is a traditional pastry filled with almond paste and whipped cream, enjoyed during Lent in Sweden for its sweet, cardamom-spiced goodness.</string>
+
+    <string name="drink1">Own brewd\nBeer</string>
+    <string name="drink2">Fresh Smothies</string>
+    <string name="drink3">Own baked\ncoffee</string>
+
+    <string name="drink1info">Beer is one of the worlds oldest and most widely consumed alcoholic beverages. It is typically made from four primary ingredients: water, malted barley, hops, and yeast. Beer comes in a wide range of styles and flavors, from light and refreshing lagers to rich and complex ales.</string>
+    <string name="drink2info">A smoothie is a blended beverage made by combining various ingredients such as fruits, vegetables, yogurt, or milk. It is known for its smooth and creamy texture and is often enjoyed as a nutritious and refreshing drink.</string>
+    <string name="drink3info">Coffee is a beloved caffeinated beverage made by brewing roasted coffee beans. It offers a rich and aromatic flavor that can be customized with cream, sugar, or various flavorings, making it a popular choice for a morning pick-me-up or a cozy afternoon treat.</string>
+
+
+</resources>
